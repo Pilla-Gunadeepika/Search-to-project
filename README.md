@@ -48,8 +48,11 @@ Students and learners who want to turn their skills into practical projects, dis
 * More detailed project roadmaps.
 * Improved project recommendations.
 
-## 👩‍💻 Developer
-Guna Deepika
+## 👥 Team Members
+* **Guna Deepika** 
+* **Varshini** 
+* **Kamalini** 
+* **Satvika**
 Built as a student project for a hackathon.
 
 ## 🔐 Security
