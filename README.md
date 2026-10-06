@@ -52,7 +52,7 @@ Students and learners who want to turn their skills into practical projects, dis
 * **Guna Deepika** 
 * **Varshini** 
 * **Kamalini** 
-* **Satvika**
+* **SatvikaSri**
   
 Built as a student project for a hackathon.
 
